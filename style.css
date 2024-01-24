@@ -1,8 +1,32 @@
-  /* Google Fonts */
+  /* Fonts */
 .font-inter{font-family: 'Inter', sans-serif;}
+
+.font-helvetica{font-family: Arial, Helvetica, sans-serif;}
+
+.textbrandcolor-darkblue{color: #050038;}
+
+.textbrandcolor-white{color: white;}
+
 
 /* Body Mods */
 body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    max-width: 1440px;
+   
   }
+
+
+.no-underline {a:link {text-decoration: none;}}
+
+/* .down-arrow {<img src="Images/down-arrow.svg" alt="">} */
+
+/* header {display: inline-block;} */
+
+/* .inline {display: inline-block;} */
+
+#header-items-right div {display: -webkit-inline-flex; align-items: center;}
+
+#header-items-left div {display: -webkit-inline-flex; align-items: center;}
+
+.pd-12 {padding: 12px;}
