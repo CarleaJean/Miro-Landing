@@ -1,0 +1,8 @@
+  /* Google Fonts */
+.font-inter{font-family: 'Inter', sans-serif;}
+
+/* Body Mods */
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
